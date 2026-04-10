@@ -1,0 +1,11 @@
+{
+  "name": "HIX Token",
+  "website": "https://hix.markets",
+  "description": "Global Happiness Index token",
+  "explorer": "https://etherscan.io/token/0x36b2ECA9b427ed9b1ca47d0fD0Ff9c6CA8D4D34F",
+  "type": "ERC20",
+  "symbol": "HIX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x36b2ECA9b427ed9b1ca47d0fD0Ff9c6CA8D4D34F"
+}
